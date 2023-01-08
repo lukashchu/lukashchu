@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a student in the University of Pennsylvania's class of 2025 studying Computer Science in the School of Engineering and Applied Science. I am pursuing minors in statistics and economics and am strongly interested in data science and quantitative finance.
+Student at the University of Pennsylvania's School of Engineering & Applied Science studying computer science.
