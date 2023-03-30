@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Student at the University of Pennsylvania's School of Engineering & Applied Science studying computer science.
+Highly driven and ambitious student at the University of Pennsylvania studying computer science. Strong in Java, Python, and C++. Interested in web dev and machine learning. Enthusiastic, detail-oriented learner ready to contribute skills to a software engineering role.
