@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Highly driven and ambitious student at the University of Pennsylvania studying computer science. Strong in Java, Python, and C++. Interested in web dev and machine learning. Enthusiastic, detail-oriented learner ready to contribute skills to a software engineering role.
+- 🔭 I’m currently working on building my portfolio with more projects
+- 🌱 I’m currently learning more about data structures and algorithms at the University of Pennsylvania
+- 💬 Ask me about anything
+- 📫 How to reach me: aluk@upenn.edu
+- 😄 Pronouns: he/him.his
+- ⚡ Fun fact: I published my first mobile application during my sophomore year of high school
