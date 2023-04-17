@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more about data structures and algorithms at the University of Pennsylvania
 - 💬 Ask me about anything
 - 📫 How to reach me: aluk@upenn.edu
-- 😄 Pronouns: he/him.his
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I published my first mobile application during my sophomore year of high school
