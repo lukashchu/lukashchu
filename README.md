@@ -20,7 +20,6 @@ Data Structures and Algorithms | Probability and Statistical Inference | Discret
 - 🌱 I’m currently learning more about data structures and algorithms at the University of Pennsylvania
 - 💬 Ask me about anything
 - 📫 How to reach me: aluk@seas.upenn.edu
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I published my first mobile application during my sophomore year of high school
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lukashchu) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrewlukashchuk/) [<img src='https://simpleicons.org/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/lukashchu) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://lukashchu.github.io/portfolio/)
