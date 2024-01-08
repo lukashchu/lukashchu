@@ -1,4 +1,4 @@
-### github.com/lukashchu
+### Andrew Lukashchuk's GitHub Profile
 
 ![Andrew Lukashchuk](https://raw.githubusercontent.com/lukashchu/lukashchu/main/aspiring-software-engineer.jpg)
 
