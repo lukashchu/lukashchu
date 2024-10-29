@@ -1,8 +1,8 @@
 ### Andrew Lukashchuk's GitHub Profile
 
-![Andrew Lukashchuk](https://raw.githubusercontent.com/lukashchu/lukashchu/main/aspiring-software-engineer.jpg)
+![Andrew Lukashchuk](https://raw.githubusercontent.com/lukashchu/lukashchu/main/about.png)
 
-Hello! My name is **Andrew Lukashchuk**. I am a third-year student at the University of Pennsylvania studying computer science and mathematics with a full scholarship through the Mayor's Scholars Program.<br>
+Hello! My name is **Andrew Lukashchuk**. I am an accelerated master's student at the University of Pennsylvania studying computer science and artificial intelligence with a full scholarship through the Mayor's Scholars Program.<br>
 <br>
 On campus, I am involved in many ways, including new student orientation, Greek life, and athletics.<br>
 <br>
