@@ -4,7 +4,7 @@
 
 Hello! My name is **Andrew Lukashchuk**. I am an accelerated master's student at the University of Pennsylvania studying computer science and artificial intelligence with a full scholarship through the Mayor's Scholars Program.<br>
 <br>
-On campus, I am involved in many ways, including new student orientation, Greek life, and athletics.<br>
+On campus, I am involved in many ways, including as a teaching assistant, new student orientation leader, and peer advisor.<br>
 <br>
 I have a deep interest in discrete mathematics, probability, algorithms, and many more of the technical aspects of computer science.<br>
 <br>
